@@ -14,5 +14,6 @@
 	"author": "Rudy",
 	"description": "freeCodeCamp study",
 	"keywords": [ "freecodecamp", "backend", "study" ],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
