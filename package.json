@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Rudy",
-	"description": "freeCodeCamp study"
+	"description": "freeCodeCamp study",
+	"keywords": [ "freecodecamp", "backend", "study" ]
 }
