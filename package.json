@@ -13,5 +13,6 @@
 	},
 	"author": "Rudy",
 	"description": "freeCodeCamp study",
-	"keywords": [ "freecodecamp", "backend", "study" ]
+	"keywords": [ "freecodecamp", "backend", "study" ],
+	"license": "MIT"
 }
